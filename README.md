@@ -10,7 +10,7 @@ Antes de ejecutar el proyecto, nos debemos asegurar de tener:
 - **Ubuntu** (en máquina virtual)
 - **Compilador GCC** instalado
 - **Visual Studio Code** conectado a la máquina virtual
-- 
+  
 ## ▶️ Pasos para ejecución
 1. Guardé el archivo del proyecto (`conversor.c`) en mi máquina virtual Ubuntu.
 2. Abrí el archivo desde **Visual Studio Code** conectado por SSH.
